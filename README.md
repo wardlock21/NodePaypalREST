@@ -7,7 +7,8 @@ Installation
 Install the dependencies
 
 $ npm install
-Serve
+
 
 To serve in the browser
+
 $ npm start
