@@ -4,8 +4,8 @@ const paypal =require('paypal-rest-sdk');
 
 paypal.configure({
     'mode': 'sandbox', //sandbox or live
-    'client_id': 'AfV2g8DHp4UuTLxwBkqYtOZDRwEQZmkLHOpnMELKXDbrbsa6_9uEaS8FefDhepp8-9SQAZxMj_n2zhPB',
-    'client_secret': 'EFG2pixeDI1sPuYklLRyYNs3Gocq3zj1-JJlBJorXcZjTKxSjS8FvCbf8vy56KNO2thjL4zWuSMqcrvF'
+    'client_id': 'your client id',
+    'client_secret': 'your client secret'
 });
 
 
